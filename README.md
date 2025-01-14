@@ -10,6 +10,9 @@ This project explores the integration of graph neural networks into the Deep Q-L
   - Follows the framework from Battaglia et al. (2018), implementing independent graph networks for encoding and decoding and recurrent graph networks for processing.
  
 ## References
-Battaglia et al. (2018): Relational Inductive Biases, Deep Learning, and Graph Networks arXiv:1806.01261.
-Bapst et al. (2019): Structured Agents for Physical Construction arXiv:1904.03177.
-Mnih et al. (2015): Human-Level Control Through Deep Reinforcement Learning.
+### References
+
+- **Battaglia et al. (2018)**: [Relational Inductive Biases, Deep Learning, and Graph Networks](https://arxiv.org/abs/1806.01261) ([arXiv:1806.01261](https://arxiv.org/abs/1806.01261)).
+- **Bapst et al. (2019)**: [Structured Agents for Physical Construction](https://arxiv.org/abs/1904.03177) ([arXiv:1904.03177](https://arxiv.org/abs/1904.03177)).
+- **Mnih et al. (2015)**: *Human-Level Control Through Deep Reinforcement Learning* ([Nature](https://www.nature.com/articles/nature14236)).
+
